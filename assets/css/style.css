@@ -643,3 +643,17 @@ p {
         padding: 0px 16px;
     }
 }
+
+/*Cookie Confirm Button*/
+
+    .confirm {
+      border-radius: 0.8em;
+    }
+
+    .confirm:hover {
+      opacity: 80%;
+    }
+    
+    .learn-more:hover {
+      opacity: 80%;
+    }
