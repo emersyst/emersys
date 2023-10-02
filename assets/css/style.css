@@ -430,7 +430,7 @@ p {
 
 .service_itemTitle {
     color: var(--c_light2);
-    font-size: 0.1728em;
+    font-size: 0.15em;
     font-weight: 700;
     line-height: 134.286%;
 }
