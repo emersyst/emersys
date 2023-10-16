@@ -317,7 +317,7 @@ p {
     font-size: 16px;
     padding: 1em;
     border-radius: 1.125em 0rem 0em 1.125em;
-    background: #0277B5;
+    background: var(--c_primary);
     text-decoration: none;
 }
 
