@@ -503,6 +503,7 @@ p {
 }
 .brand_logo {
     font-size: 33px;
+    height: 1.5em;
 }
 .header .navbar-nav {
     padding-left: 90px;
