@@ -2,8 +2,8 @@
 
 :root {
     /* text colors */
-    --c_primary: #9ACC32;
-    --c_secondary: #1E293B;
+    --c_primary: #9154E0;
+    --c_secondary: #2B1D74;
     --c_gray: #334155;
     --c_lightGray: #334155b3;
     --c_light: #3341551a;
@@ -11,9 +11,9 @@
     --c_light2: #CBD5E1;
     --c_white: #ffffff;
     /* backgroundc colors */
-    --bg_primary: #9ACC32;
-    --bg_secondary: #1E293B;
-    --bg_gray: #334155;
+    --bg_primary: #9154E0;
+    --bg_secondary: #2B1D74;
+    --bg_gray: #23195e;
     --bg_light: #f5f5f5;
     --bg_white: #ffffff;
     /* font sizes */
@@ -222,9 +222,9 @@ p {
 }
 
 .btn_primary:hover {
-    color: var(--c_white);
-    background-color: #7ca524;
-    border-color: var(--c_primary);
+    color: var(--c_primary);
+    background-color: var(--c_white);
+    /*border-color: var(--c_primary);*/
 }
 
 .btn_primary_outline {
@@ -274,7 +274,7 @@ p {
     font-size: 50px;
     line-height: 1;
     height: 1em;
-    width: 1.48em;
+    /*width: 1.48em;*/
     -o-object-fit: contain;
     object-fit: contain;
 }
