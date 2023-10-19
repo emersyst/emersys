@@ -17,7 +17,7 @@
     --bg_light: #f5f5f5;
     --bg_white: #ffffff;
     /* font sizes */
-    --pg_title: 72px;
+    --pg_title: 68px;
     --sec_title: 64px;
     --fs_2xl: 30px;
     --fs_xl: 24px;
@@ -484,7 +484,7 @@ p {
 
 @media(max-width:1799.98px) {
    :root {
-    --pg_title: 48px;
+    --pg_title: 45px;
     --sec_title: 42px;
     --fs_2xl: 20px;
     --fs_xl: 18px;
