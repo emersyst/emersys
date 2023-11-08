@@ -659,3 +659,8 @@ p {
 .learn-more:hover {
   opacity: 80%;
 }
+
+.flagicon {
+    width: 25px;
+    margin-bottom: 8px;
+}
