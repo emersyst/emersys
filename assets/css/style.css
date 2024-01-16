@@ -664,3 +664,10 @@ p {
     width: 25px;
     margin-bottom: 8px;
 }
+
+.footernaming {
+    color: white;
+    font-size: 0.5em;
+    padding-top: 10px;
+    text-align: center;
+}
